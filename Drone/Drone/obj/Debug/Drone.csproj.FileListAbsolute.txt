@@ -1,0 +1,10 @@
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\bin\Debug\Drone.exe.config
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\bin\Debug\Drone.exe
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\bin\Debug\Drone.pdb
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.csprojAssemblyReference.cache
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.Form1.resources
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.Properties.Resources.resources
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.csproj.GenerateResource.cache
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.csproj.CoreCompileInputs.cache
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.exe
+C:\Users\Ondrej Kuban\source\repos\Drone\Drone\obj\Debug\Drone.pdb
