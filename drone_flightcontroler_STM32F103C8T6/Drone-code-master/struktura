@@ -1,0 +1,18 @@
+Basic návrh struktury podle které bych jel, můžete doplňovat/upravovat, ale musíme se na tom co nejdříve shodnout.
+    1. Hardware
+        a. dron
+            i. 3D model (asi nebudeme dělat)
+            ii. Zapojení
+            iii. Použité komponenty (základní informace o procesoru, motorech, baterii)
+        b. ovladač
+            i. zapojení
+    2. Software
+        a. Dron
+            i. Gyroskop, Akcelerometr
+            ii. Pid controller
+            iii. Ovládání motorů
+            iv. Zpětná vazba
+        b. Ovladač
+            i. Načítání dat, zpracování
+        c. Mobilní aplikace
+            i. 
